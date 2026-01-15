@@ -80,9 +80,8 @@ Visit http://localhost:3000 in your browser.
 
 🛠 Admin: Verify users, manage disputes, view analytics
 
-
-
 ---
+
 
 ✅ Core Features
 
