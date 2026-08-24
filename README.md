@@ -120,9 +120,10 @@ Visit http://localhost:3000 in your browser.
 
 1. Suman Kar – Portfolio
 2. Pallavi Jha – LinkedIn
+3. Soura Roy Mahapatra
 
 
-Special thanks to my teammate Pallavi for handling the UI design part with great dedication. Your frontend skills elevated the user experience!
+Special thanks to my teammate Pallavi for handling the UI design part with great dedication. Your frontend skills elevated the user experience!Special thanks to my teammate Soura for handling the Backend part 
 
 
 ---
